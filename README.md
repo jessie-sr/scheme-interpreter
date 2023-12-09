@@ -1,6 +1,6 @@
 # Scheme Interpreter
 
-This project is a minimalistic interpreter for a subset of the Scheme programming language. It aims to provide a hands-on experience with the inner workings of a language interpreter, reflecting on the design decisions that shape programming languages. This interpreter handles a specific portion of Scheme as outlined in the [functional programming section of Composing Programs](#), with reference to our [language specification](#) and [built-in procedure documentation](#).
+This project is a minimalistic interpreter for a subset of the Scheme programming language. The specific portion of Scheme handled is outlined in the [functional programming section of Composing Programs](#), with reference to our [language specification](#) and [built-in procedure documentation](#).
 
 ## Features
 
